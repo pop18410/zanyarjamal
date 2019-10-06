@@ -1,0 +1,4 @@
+cava install python2 di termux
+pkg install python 2
+pkg update
+pkg upgrade
