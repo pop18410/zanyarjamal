@@ -1,0 +1,15 @@
+Clear
+git clone https://github.com/b3-v3r/Hunner
+ls
+cd Hunner
+ls
+python2 hunner.py
+python hunner.py
+pkg install python
+6
+1
+cd Black-Hydra
+ls
+python 2 black-hydra
+4
+Password ..txt
