@@ -1,0 +1,12 @@
+apt-get upgrade && apt-get update
+apt-gte install git
+apt-get install proot
+apt-get install wget
+git clone https://github.com/Neo-Oli/termux-ubuntu.git
+ls
+cd trrmux-ubuntu.sh
+ls
+Chmod +x ubuntu.sh
+ls
+./ubuntu.sh 
+ls
