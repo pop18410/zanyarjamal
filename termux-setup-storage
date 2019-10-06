@@ -1,0 +1,15 @@
+# termux-setup-storage
+termux-setup-storage
+ls
+cd shared/Ardroid/
+ls
+cd com.termux
+ls
+cd files
+Ps
+ls
+ls
+mkdir youtuoe_projects
+ls
+cd youtube_projects
+
