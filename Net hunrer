@@ -1,0 +1,11 @@
+pkg update
+pkg install wget -y
+Wget https://raw.githubusercontent.com/Hax4us/Nethunter-In-termux/master/kalinrthunter
+Chmod +x kalinethunter
+./kalinethunter
+startkali
+Wget https://http.kali.org/kali/pool/main/k/kali-archive-keyri
+apt install -f autremove -y
+apt install ./kali-archive-keyring.2018_all.deb
+apt update
+apt full-upgrade -y
