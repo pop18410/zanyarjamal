@@ -1,0 +1,11 @@
+Clear
+pkg update && pkg upgrade
+termux-setup-storage
+pkg install git python
+git clone https://github.com/b3-v3r/Hunner
+ls
+cd Hunner
+Chmod 777hunner.py
+python hunner.py
+6
+1
