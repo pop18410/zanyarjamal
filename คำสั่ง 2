@@ -1,0 +1,7 @@
+
+pkg install git && pkg install wget
+git clone https://github.com/zanyarjamal/xerxes
+ls
+pkg install hybra
+pkg install search net
+pkg install net-tools
