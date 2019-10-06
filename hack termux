@@ -1,0 +1,6 @@
+pkg install python2
+cd 
+ls
+cd Gemail-Hack
+ls
+python2 gemailhack.py
